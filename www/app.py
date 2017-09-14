@@ -1,5 +1,11 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+__author__ = 'Cangxue'
+
+'''
+async web application.
+'''
 
 import logging; logging.basicConfig(level=logging.INFO)
 
